@@ -10,6 +10,7 @@ public class Solution {
       System.out.println("Hello world"); 
       //First commit
       //Second commit - master
+      //Third commit - slave
     }
 
 }
