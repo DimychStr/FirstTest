@@ -1,0 +1,63 @@
+[33mcommit b352a043f0331a0a029b42c57ad1998b50b0913c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 500f278 07f0c7b
+Author: Dimych <DimychStr@mail.ru>
+Date:   Mon Nov 6 22:05:03 2023 +0300
+
+    Merge branch 'master' of https://github.com/DimychStr/FirstTest
+
+[33mcommit 500f27854a35f7d57773b09a77f034fd669534b3[m
+Merge: ab5c57a fb71678
+Author: Dimych <DimychStr@mail.ru>
+Date:   Mon Nov 6 21:53:43 2023 +0300
+
+    Merge branch 'slave'
+
+[33mcommit fb716782e051a06649ea1b0384008e7a0b547402[m[33m ([m[1;31morigin/slave[m[33m, [m[1;32mslave[m[33m)[m
+Author: Dimych <DimychStr@mail.ru>
+Date:   Mon Nov 6 21:52:50 2023 +0300
+
+    Forth commit - slave
+
+[33mcommit ab5c57a116737cbf873e64415b684fd1740b9ff0[m
+Merge: 0527d6a 2ecc016
+Author: Dimych <DimychStr@mail.ru>
+Date:   Mon Nov 6 20:37:33 2023 +0300
+
+    Merged commit
+
+[33mcommit 07f0c7b537bc5d0a2b9e03c54056f6f0029bd406[m[33m ([m[1;31morigin/master[m[33m)[m
+Merge: 0527d6a 2ecc016
+Author: Dimych <DimychStr@mail.ru>
+Date:   Mon Nov 6 20:37:33 2023 +0300
+
+    Merged commit
+
+[33mcommit 0527d6a884c6ce2cc92d0f316ee9ea38be365689[m
+Author: Dimych <DimychStr@mail.ru>
+Date:   Mon Nov 6 19:57:19 2023 +0300
+
+    Second commit - master
+
+[33mcommit 2ecc016488e4faf885a4720c08069e8629687d6f[m
+Author: Dimych <DimychStr@mail.ru>
+Date:   Mon Nov 6 19:56:02 2023 +0300
+
+    Third commit - slave
+
+[33mcommit cea8ccd3f090be9e2c63854af74ca3ca32cedb30[m
+Author: Dimych <DimychStr@mail.ru>
+Date:   Mon Nov 6 19:30:12 2023 +0300
+
+    Second commit
+
+[33mcommit a705360761f482d04131289d0ba9a316cfc19a87[m
+Author: Dimych <DimychStr@mail.ru>
+Date:   Mon Nov 6 19:22:13 2023 +0300
+
+    First commit
+
+[33mcommit 23683f4984ad1dd48d5d0960c11a48d056b79ba4[m
+Author: Dimych <DimychStr@mail.ru>
+Date:   Mon Nov 6 19:15:12 2023 +0300
+
+    First commit
